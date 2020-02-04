@@ -1,0 +1,8 @@
+main: cn.minecraft.MoFa.main
+name: MoFaKeJi
+version: 1.0.1
+commands:
+  mf:
+    description: "魔法科技"
+    aliases:
+      - mofa
